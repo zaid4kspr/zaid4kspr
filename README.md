@@ -48,7 +48,7 @@
 
 #### databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%3982CE.svg?style=for-the-badge&logo=postgreSQL&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3982CE.svg?style=for-the-badge&logo=postgreSQL&logoColor=white)
 
 
 
