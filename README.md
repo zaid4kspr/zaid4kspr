@@ -17,9 +17,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23195671&size=40&duration=10000&multiline=true&width=1920&lines=Hey+I+am+Zaid+SELMI%2C+Software+engineer%2C+and+a+fitness+addict+)](https://git.io/typing-svg)
 ### Here's some fun facts about me: </h3>
 
--  **I'm a senior web and devOps engineer 👩🏻‍💻**
+-  **I'm a senior web developer and devOps engineer 👩🏻‍💻**
 -  **I am a true science lover 🔬**
-- **I am a bass player 🎸**
 
 ### Here's my github README stats:
 
